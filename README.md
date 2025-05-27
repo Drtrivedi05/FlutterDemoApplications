@@ -53,82 +53,84 @@ flutter run
 ```
 Or, to run a specific demo file:
 
-Open your editor (Android Studio / VS Code).
+  1. Open your editor (Android Studio / VS Code).
 
-Open the Dart file you want to run (e.g., Flutter_Login.dart).
+  2. Open the Dart file you want to run (e.g., Flutter_Login.dart).
 
-Select a device or emulator.
+  3. Select a device or emulator.
 
-Click Run or press F5.
+  4. Click Run or press F5.
+
 
 📚 Description of Each File
-Flutter_HelloWorld.dart
 
-The simplest Flutter app displaying “Hello World” on the screen. Great for beginners to understand Flutter basics.
+  I. Flutter_HelloWorld.dart:
 
-Flutter_BadgeDemo.dart
+    The simplest Flutter app displaying “Hello World” on the screen. Great for beginners to understand Flutter basics.
 
-Demonstrates how to use badges in Flutter to highlight items such as notifications. Useful for marking updates or unread content in apps.
+  II. Flutter_BadgeDemo.dart
 
-Flutter_CheckBoxListTileDemo.dart
+    Demonstrates how to use badges in Flutter to highlight items such as notifications. Useful for marking updates or unread content in apps.
 
-Shows how to implement CheckboxListTile widgets. Helps in building checklist-like UIs where users can select multiple options easily.
+  III. Flutter_CheckBoxListTileDemo.dart
 
-Flutter_ConfirmationAlertDialog.dart
+    Shows how to implement CheckboxListTile widgets. Helps in building checklist-like UIs where users can select multiple options easily.
 
-Displays how to use an Alert Dialog to confirm user actions like delete or logout. Useful for critical user confirmations in an app.
+  IV. Flutter_ConfirmationAlertDialog.dart
 
-Flutter_DatePickerDemo.dart
+    Displays how to use an Alert Dialog to confirm user actions like delete or logout. Useful for critical user confirmations in an app.
 
-Implements a date picker dialog using showDatePicker. Helpful for allowing users to select birth dates, deadlines, or appointments.
+  V. Flutter_DatePickerDemo.dart
 
-Flutter_DrawerDemo.dart
+    Implements a date picker dialog using showDatePicker. Helpful for allowing users to select birth dates, deadlines, or appointments.
 
-Demonstrates a navigation drawer with menu items. A common pattern in Flutter apps for sidebar navigation.
+  VI. Flutter_DrawerDemo.dart
 
-Flutter_DropDownMenu.dart
+    Demonstrates a navigation drawer with menu items. A common pattern in Flutter apps for sidebar navigation.
 
-Implements a dropdown menu widget. Enables users to choose one item from a list, such as gender or country.
+  VII. Flutter_DropDownMenu.dart
 
-Flutter_GridViewDemo.dart
+    Implements a dropdown menu widget. Enables users to choose one item from a list, such as gender or country.
 
-Uses GridView to display items in a grid layout. Ideal for showing products, photos, or cards in a structured format.
+  VIII. Flutter_GridViewDemo.dart
 
-Flutter_ListViewBuilderDemo.dart
+    Uses GridView to display items in a grid layout. Ideal for showing products, photos, or cards in a structured format.
 
-Shows how to build a dynamic list using ListView.builder. Essential for apps that fetch and display data dynamically.
+  IX. Flutter_ListViewBuilderDemo.dart
 
-Flutter_Login.dart
+    Shows how to build a dynamic list using ListView.builder. Essential for apps that fetch and display data dynamically.
 
-Creates a basic login form with username and password fields. Demonstrates form validation and input handling.
+  X. Flutter_Login.dart
 
-Flutter_MinimumMaximumNumber.dart
+    Creates a basic login form with username and password fields. Demonstrates form validation and input handling.
 
-Takes a list of numbers and displays the minimum and maximum values. Useful for learning logic and user input in Flutter.
+  XI. Flutter_MinimumMaximumNumber.dart
 
-Flutter_RadioListTileDemo.dart
+    Takes a list of numbers and displays the minimum and maximum values. Useful for learning logic and user input in Flutter.
 
-Implements radio button selections using RadioListTile. Useful in situations where only one option must be selected.
+  XII. Flutter_RadioListTileDemo.dart
 
-Flutter_SimpleAlertDialog.dart
+    Implements radio button selections using RadioListTile. Useful in situations where only one option must be selected.
 
-Shows how to use a simple alert dialog in Flutter. Often used for warnings, notifications, or basic prompts.
+  XIII. Flutter_SimpleAlertDialog.dart
 
-Flutter_SimpleInterest.dart
+    Shows how to use a simple alert dialog in Flutter. Often used for warnings, notifications, or basic prompts.
 
-Calculates simple interest based on input principal, rate, and time. Good for learning forms, input handling, and calculations.
+  XIV. Flutter_SimpleInterest.dart
 
-Flutter_SliderDemo.dart
+    Calculates simple interest based on input principal, rate, and time. Good for learning forms, input handling, and calculations.
 
-Demonstrates how to use a Slider widget. Useful for user settings like volume, brightness, or custom ranges.
+  XV. Flutter_SliderDemo.dart
 
-Flutter_SwitchListTileDemo.dart
+    Demonstrates how to use a Slider widget. Useful for user settings like volume, brightness, or custom ranges.
 
-Uses SwitchListTile to toggle options like dark mode or notifications. Good for implementing toggle preferences.
+  XVI. Flutter_SwitchListTileDemo.dart
 
-Flutter_TimePickerDemo.dart
+    Uses SwitchListTile to toggle options like dark mode or notifications. Good for implementing toggle preferences.
 
-Implements a time picker dialog using showTimePicker. Helps users select a specific time, useful for alarms or reminders.
+  XVII. Flutter_TimePickerDemo.dart
+
+    Implements a time picker dialog using showTimePicker. Helps users select a specific time, useful for alarms or reminders.
 
 ✍️ Author
 
