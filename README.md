@@ -41,15 +41,11 @@ A collection of Flutter widget demo files showcasing the use of various core wid
 
 ## 🛠️ Installation
 
-```bash
 git clone https://github.com/your-username/flutter-widget-demos.git
 cd flutter-widget-demos
 flutter pub get
 
 ▶️ How to Run
-bash
-Copy
-Edit
 flutter run
 Or, to run a specific demo file:
 
