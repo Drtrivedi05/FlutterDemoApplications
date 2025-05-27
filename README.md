@@ -6,15 +6,15 @@ A collection of Flutter widget demo files showcasing the use of various core wid
 
 ## 🧰 Features
 
-- Badge demo
-- Checkboxes and Radio tiles
-- Date & Time pickers
-- Drawer and Tab navigation
-- Login form example
-- GridView and ListView
-- Simple interest calculator
-- Alert and Confirmation dialogs
-- Slider, Dropdown, and Switch tiles
+- Badge demo  
+- Checkboxes and Radio tiles  
+- Date & Time pickers  
+- Drawer and Tab navigation  
+- Login form example  
+- GridView and ListView  
+- Simple interest calculator  
+- Alert and Confirmation dialogs  
+- Slider, Dropdown, and Switch tiles  
 
 ---
 
@@ -34,7 +34,7 @@ A collection of Flutter widget demo files showcasing the use of various core wid
 ### ✅ Prerequisites
 
 - Flutter SDK (Latest stable)
-- Android Studio / VS Code
+- Android Studio or VS Code
 - Android Emulator or physical device
 
 ---
@@ -45,12 +45,13 @@ A collection of Flutter widget demo files showcasing the use of various core wid
 git clone https://github.com/your-username/flutter-widget-demos.git
 cd flutter-widget-demos
 flutter pub get
+
 ▶️ How to Run
 bash
 Copy
 Edit
 flutter run
-Or, if you want to run a specific file:
+Or, to run a specific demo file:
 
 Open your editor (Android Studio / VS Code).
 
@@ -61,7 +62,6 @@ Select a device or emulator.
 Click Run or press F5.
 
 📚 Description of Each File
-
 Flutter_HelloWorld.dart
 The simplest Flutter app displaying “Hello World” on the screen. Great for beginners to understand Flutter basics.
 
@@ -115,8 +115,8 @@ Implements a time picker dialog using showTimePicker. Helps users select a speci
 
 ✍️ Author
 Your Name
-Email: trivedid785@gmail.com
-GitHub: github.com/drtrivedi05
+📧 Email: trivedid785@gmail.com
+🔗 GitHub: github.com/drtrivedi05
 
 📄 License
 This project is open-source and available under the MIT License.
