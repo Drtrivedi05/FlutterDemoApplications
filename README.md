@@ -42,7 +42,7 @@ A collection of Flutter widget demo files showcasing the use of various core wid
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/flutter-widget-demos.git
+git clone https://github.com/Drtrivedi05/FlutterDemoApplications.git
 cd flutter-widget-demos
 flutter pub get
 ```
